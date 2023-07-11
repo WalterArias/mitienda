@@ -1,0 +1,7 @@
+{
+  "editor.wordWrapColumn": 140,
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "off",
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Fira Code"
+}
